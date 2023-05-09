@@ -30,10 +30,35 @@
 
 // export default App;
 
-import Counter from "./Counter";
+// import Counter from "./Counter";
+
+// function App() {
+//   return <Counter />;
+// }
+
+// export default App;
+
+// import Info from "./Info.js";
+
+// function App() {
+//   return <Info />;
+// }
+
+// export default App;
+
+// import Average from "./Average";
+
+// function App() {
+//   return <Average />;
+// }
+
+// export default App;
+
+import UseInputs from "./UseInputs";
+import Info from "./info.js";
 
 function App() {
-  return <Counter />;
+  return <UseInputs />;
 }
 
 export default App;
